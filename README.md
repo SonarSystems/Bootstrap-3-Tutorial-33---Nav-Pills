@@ -1,4 +1,4 @@
-Bootstrap-3-Tutorial-33---Nav-Pills
+Bootstrap 3 Tutorial 33 - Nav Pills
 ===================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/qSpEfzWVTh4
